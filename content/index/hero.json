@@ -11,11 +11,11 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Lennon Ruthven.",
+		"usp": "Spiritually enthusiastic about life and fitness"
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "I am a advocate for conscious evolution; a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
 
 	"buttons": {
 		"primary": {
@@ -24,8 +24,8 @@
 			"leaveSite": false
 		},
 		"secondary": {
-			"title": "LinkedIn",
-			"url": "",
+			"title": "Twitter",
+			"url": "https://twitter.com/lennonruthven",
 			"leaveSite": "true"
 		}
 	}
