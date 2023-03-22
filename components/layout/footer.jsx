@@ -4,8 +4,6 @@ import Container from '../structure/container'
 import Icon from '../utils/icon.util'
 
 import css from '../../styles/structure/footer.module.scss'
-
-import content from '../../content/footer.json'
 import settings from '../../content/_settings.json'
 
 export default function Footer() {
@@ -33,7 +31,7 @@ export default function Footer() {
 			<Container spacing={['verticalXXLrg', 'bottomLrg']}>
 				<section className={css.sections}>
 					<ul className={css.thanks}>
-						<li><h4>gas</h4></li>
+						<li><h4>Acknowledgments</h4></li>
 						{
 						content.acknowledgments.map( ({ person, link, note }, index) => {
 							return (
