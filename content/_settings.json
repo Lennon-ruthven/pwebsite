@@ -5,5 +5,11 @@
 	"username": {
 		"github": "atlamors",
 		"medium": "@--andrewnelson"
+	},
+
+	"portfolio": { 
+		"forkthis": " ",
+		"repo_html": " ",
+		"repo_api": " "
 	}
 }
