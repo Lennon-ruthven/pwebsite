@@ -74,12 +74,6 @@ export default function Footer() {
 					<a href={settings.portfolio.repo_html} rel="noreferrer" target="_blank">
 						<h5>{settings.portfolio.forkthis}</h5>
 						<ul>
-							<li>
-								/>  { gitHubInfo.forks }</p>
-							</li>
-							<li>
-								/> { gitHubInfo.stars }</p>
-							</li>
 						</ul>
 					</a>
 				</section>
