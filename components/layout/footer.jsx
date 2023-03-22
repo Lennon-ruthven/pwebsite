@@ -21,8 +21,7 @@ export default function Footer() {
 			.then(json => {
 				const { stargazers_count, forks_count } = json;
 				setGitHubInfo({
-					stars: stargazers_count,
-					forks: forks_count,
+
 				});
 			})
 		.catch(e => console.error(e));
